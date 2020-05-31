@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Backup &amp; Restore</string>
+    <string name="enter_value">Enter value</string>
+    <string name="save">Save</string>
+    <string name="stored_value_x">Stored value : %s</string>
+    <string name="value_is_empty">Value is empty</string>
+</resources>

@@ -1,0 +1,3 @@
+<full-backup-content>
+    <include domain="sharedpref" path="data_store.xml" />
+</full-backup-content>
